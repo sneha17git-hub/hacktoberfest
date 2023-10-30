@@ -40,6 +40,13 @@
 -Bio: Bachelor's degree, comic and like coding
 -GitHub: https://github.com/KariSims
 
+
+#### Name: [sneha17git-hub](https://github.com/sneha17git-hub)
+
+- Place: Patna,Bihar, India 
+- Bio: 3rd Year Btech CSE student at RCET Bhilai, abd has an experience in web development 
+- Github: [sneha17git-hub](https://github.com/sneha17git-hub)
+  
 #### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
